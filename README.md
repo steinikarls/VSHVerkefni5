@@ -5,7 +5,7 @@ VSH Verkefni5
 Verkefnið  mitt fjallar um Hörpu og en í þema jólatónleika
 
 Það eru 6 tónleikar sem er hægt er að skrá sig á 
-ég tengi a href við nafnið á tónleikanum en er ekki með síðu á bak við það heldur <a href_"#"--> text </a-->
+ég tengi a href við nafnið á tónleikanum en er ekki með síðu á bak við það heldur a href_"#"--> text </a
 og það er <> til að fletta til hliðar að skoða sýningar
 það var svá vesenn með top og bot á síðunni þar sem ég náði ekki að láta fylla skjáinn svo það er um 15px top og uppi 
 
